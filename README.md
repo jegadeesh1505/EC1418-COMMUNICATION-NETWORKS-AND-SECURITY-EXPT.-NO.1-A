@@ -39,10 +39,10 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 # OUTPUT
 | Parameter | Calculated Value |
 |---|---:|
-| Delay | 12.5 ms |
-| Average Delay | 10.8 ms |
-| Throughput | 7.8 Mbps |
-| Packet Loss | 2.8% |
+| Delay | 8.2 ms |
+| Average Delay | 7.1 ms |
+| Throughput | 9.1 Mbps |
+| Packet Loss | 1.2% |
 
 # RESULT
 
